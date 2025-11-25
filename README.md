@@ -1,2 +1,2 @@
-# HTML#CSS#Javascript
-Code/Projects made using HTML, CSS and Javascript.
+# HTML
+Code/Projects made using HTML.
